@@ -53,7 +53,9 @@ Below are sample generated patterns:
 
 See the `examples/screenshots/` directory for more samples.
 
-**Live Example:** [acherniske.github.io](https://acherniske.github.io)
+**Live Example:** [acherniske.github.io](https://acherniske.github.io) - Hero Section Reveal Animation
+
+**Live Demo:** [Demo link](http://acherniske.github.io/circuit-pattern-demo.html)
 
 ## Contributing
 
